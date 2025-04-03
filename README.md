@@ -1,4 +1,4 @@
-# Cat Facts API
+ # Cat Facts API
 
 1. Read the docs for [cat facts API](https://catfact.ninja/)
 2. Create a small frontend app, the app should have:
